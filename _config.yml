@@ -6,8 +6,8 @@ baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Identity
-your-name: Jane Doe
-your-title: Senior Psychonautics Engineer
+your-name: Bob
+your-title: Spaghetti and meetballs
 
 # Social settings
 500px_url:
